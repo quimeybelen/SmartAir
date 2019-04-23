@@ -45,3 +45,29 @@ Se tendrá la posibilidad de controlar la temperatura interna, la temperatura ex
 - Led verde: Este led indicará cuando SmartAir este encendido.
 - Led azul: Este led indicará cuando SmartAir este en modo "aire frio".
 - Led rojo: Este led indicará cuando SmartAir este en modo "aire cálido".
+  
+##### Microentregas:
+- Microentrega 1:
+- [x] Integrantes del grupo y idea del proyecto.
+- Microentrega 2:
+- [x] Materiales.
+- [ ] Entradas y salidas del proyecto.
+- [ ] Hardware que cumple las funciones del proyecto.
+- [ ] Bloques que componen el proyecto.
+- Microentrega 3:
+- [ ] Diagrama funcional.
+- [ ] Diagrama físico.
+- [ ] Esquema del producto final.
+- Microentrega 4:
+- [ ] Diagrama lógico.
+- Microentrega 5:
+- [ ] Diagrama de software.
+- [ ] Circuito de conexión.
+- Microentrega 6:
+- [ ] Secuencia de diseño incremental.
+- Microentrega 7:
+- [ ] Explicación del proyecto.
+- [ ] Objetivos (Para qué sirve, que problema rsuelve y como lo resuelve).
+- [ ] Utilización (Como se opera, que necesita para funcionar, en qué secuencia cumple el objetivo).
+- [ ] Como funciona internamente.
+- [ ] Procedimiento (Como logra el objetivo).
