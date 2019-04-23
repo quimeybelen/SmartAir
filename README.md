@@ -8,6 +8,7 @@ Se tendrá la posibilidad de controlar la temperatura interna, la temperatura ex
   - Hoz, Aylen (40.129.336)--> ailu.hoz28@gmail.com  
   - Torres, Quimey (38.891.324) --> quimey.torres@gmail.com  
   
+  
 ### Materiales a disposicón:
 	- 5 leds verdes.
 	- 5 leds azules.
@@ -31,3 +32,15 @@ Se tendrá la posibilidad de controlar la temperatura interna, la temperatura ex
 	- Fuente de PC de 12V.
 	- 2 coolers (con disipador).
 	- Disipadores.
+	
+### Entradas:
+- Sensor de temperatura TMP36 (Temperatura interna): Este sensor será utilizado para conocer la temperatura interna del aire inverter.
+- Sensor de temperatura TMP36 (Temperatura externa): Este sensor será utilizado para conocer la temperatura del aire que sale por el cooler frontal del aire inverter.
+- Sensor de inclinación: Este sensor será utilizado para detectar cuando el aire inverter sea movido de su lugar de manera manual. En este caso se procederá a apagar el aire para proteger sus componentes en caso de movimientos bruscos.
+  
+### Salidas:
+- Cooler frontal: Este cooler será utilizado para impulsar el aire con la temperatura deseada y/o indicada por el usuario.
+- Cooler trasero: Este cooler será utilizado para controlar la temperatura interna del aire inverter para evitar un sobrecalentamiento de los componentes.
+- Led verde: Este led indicará cuando SmartAir este encendido.
+- Led azul: Este led indicará cuando SmartAir este en modo "aire frio".
+- Led rojo: Este led indicará cuando SmartAir este en modo "aire cálido".
