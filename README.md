@@ -32,6 +32,7 @@ Se tendrá la posibilidad de controlar la temperatura interna, la temperatura ex
 	- Fuente de PC de 12V.
 	- 2 coolers (con disipador).
 	- Disipadores.
+	- Pasta térmica.
 	
 ### Entradas:
 - Sensor de temperatura TMP36 (Temperatura interna): Este sensor será utilizado para conocer la temperatura interna del aire inverter.
