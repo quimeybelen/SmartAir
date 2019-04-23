@@ -9,7 +9,7 @@ Se tendrá la posibilidad de controlar la temperatura interna, la temperatura ex
   - Torres, Quimey (38.891.324) --> quimey.torres@gmail.com  
   
   
-### Materiales a disposicón:
+### Materiales a disposición:
 	- 5 leds verdes.
 	- 5 leds azules.
 	- 5 leds blancos.
