@@ -52,14 +52,14 @@ Se tendrá la posibilidad de controlar la temperatura interna, la temperatura ex
   
 - Microentrega 2:
 - [x] Materiales.
-- [ ] Entradas y salidas del proyecto.
-- [ ] Hardware que cumple las funciones del proyecto.
-- [ ] Bloques que componen el proyecto.
+- [x] Entradas y salidas del proyecto.
+- [x] Hardware que cumple las funciones del proyecto.
+- [x] Bloques que componen el proyecto.
   
 - Microentrega 3:
-- [ ] Diagrama funcional.
-- [ ] Diagrama físico.
-- [ ] Esquema del producto final.
+- [x] Diagrama funcional.
+- [x] Diagrama físico.
+- [x] Esquema del producto final.
   
 - Microentrega 4:
 - [ ] Diagrama lógico.
