@@ -64,18 +64,18 @@ Se tendrá la posibilidad de controlar la temperatura interna, la temperatura ex
 - [x] Esquema del producto final.
   
 - Microentrega 4:
-- [ ] Diagrama lógico.
+- [x] Diagrama lógico.
   
 - Microentrega 5:
-- [ ] Diagrama de software.
+- [x] Diagrama de software.
 - [ ] Circuito de conexión.
   
 - Microentrega 6:
-- [ ] Secuencia de diseño incremental.
+- [x] Secuencia de diseño incremental.
   
 - Microentrega 7:
-- [ ] Explicación del proyecto.
-- [ ] Objetivos (Para qué sirve, que problema rsuelve y como lo resuelve).
-- [ ] Utilización (Como se opera, que necesita para funcionar, en qué secuencia cumple el objetivo).
+- [x] Explicación del proyecto.
+- [x] Objetivos (Para qué sirve, que problema rsuelve y como lo resuelve).
+- [x] Utilización (Como se opera, que necesita para funcionar, en qué secuencia cumple el objetivo).
 - [ ] Como funciona internamente.
 - [ ] Procedimiento (Como logra el objetivo).
