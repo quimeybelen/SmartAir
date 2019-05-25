@@ -45,6 +45,7 @@ Se tendrá la posibilidad de controlar la temperatura interna, la temperatura ex
 - Led verde: Este led indicará cuando SmartAir este encendido.
 - Led azul: Este led indicará cuando SmartAir este en modo "aire frio".
 - Led rojo: Este led indicará cuando SmartAir este en modo "aire cálido".
+- Celdas peltier: Estas se encenderán y apagarán para controlar la temperatura, tambien se cambiará la polaridad para entregar frío o calor según el modo en el que funcione el aire.
   
 ##### Microentregas:
 - Microentrega 1:
