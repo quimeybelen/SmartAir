@@ -46,6 +46,7 @@ Se tendrá la posibilidad de controlar la temperatura interna, la temperatura ex
 - Led azul: Este led indicará cuando SmartAir este en modo "aire frio".
 - Led rojo: Este led indicará cuando SmartAir este en modo "aire cálido".
 - Celdas peltier: Estas se encenderán y apagarán para controlar la temperatura, tambien se cambiará la polaridad para entregar frío o calor según el modo en el que funcione el aire.
+- Buzzer: Se utiliza para indicar de forma sonora el encendido, apagado, cambio de modo, al subir o bajar la temperatura y velocidad de los coolers, ademas para indicar que el dispositivo se encuentra en modo seguridad.
   
 ##### Microentregas:
 - Microentrega 1:
