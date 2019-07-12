@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartAir</string>
+    <string name="flame">flame</string>
+    <string-array name="listaModosContent">
+        <item>Frio</item>
+        <item>Calor</item>
+        <item>Ventilación</item>
+        <item>Automático</item>
+    </string-array>
+</resources>
