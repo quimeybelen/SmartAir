@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\747335c9e30a845d8e94fc5c556b58b5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\1db170b41f816edbc175864786ce101c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\afef7bd92b236548842c87c686d28bc3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\72ac117c0299787715913cd6b51a5f12\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0f9f0941178b8420fb9dab645249b212\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\245bd982bececf8b578b0bb11adfde1e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\694f18a5c447cb86503ec02143fd3559\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\a7ec248c1af94033144afdfe237b1308\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0b19408e9d90875164dbdad1a7d0d7c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0f95506ad98613d9af738797cd2ca7e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\f65c40927e4fcaa4b0e42b5a575ede74\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0d23cca1d0863dde7443e371d197f8cc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\7bf9dbe0b7137932dea72d4b3ab32eb2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\6be7d0f2b8af843c1beb1349c9445389\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\dcd7fe3e6c8808d293895fac374f97e5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\937c18c823d1ea11502077b75eb6b9a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\53a95ae3687797e59810ebd981d15be4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\9d20206ad0887083bee9db7bc1ba19eb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\63f6af14effc58e5eaf707859375e777\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ab9966691588f6e4fcba96c1fdb2595f\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ed0145a073a37162c41e680372aa295f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\82fc0531903eba467990cb7003f867a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\4270dbf38711238b71849f6791af1a4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\e720b0fc39f76a1acfb92012e9010b24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\c797cdde8f88e8a72d22a71e048b3780\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\4e8703669927b39e8809b13c45b027f9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\6a3b194204e20119a67b8be19f83d2d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0e986dabe17c9c7716569995fd8fba09\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\4e60719cc6a4b0860e828721d6f54c93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\9d81cafe3c0ca8c629c3d2c27a6dac98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ab76e88f196ea791e8157b0dd1566bfb\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:6:22-71
+application
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:8:5-45:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\747335c9e30a845d8e94fc5c556b58b5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\747335c9e30a845d8e94fc5c556b58b5\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\afef7bd92b236548842c87c686d28bc3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\afef7bd92b236548842c87c686d28bc3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\63f6af14effc58e5eaf707859375e777\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\63f6af14effc58e5eaf707859375e777\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ab9966691588f6e4fcba96c1fdb2595f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ab9966691588f6e4fcba96c1fdb2595f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\63f6af14effc58e5eaf707859375e777\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.smartair.ErrorConexionMainActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:15:9-72
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:15:19-60
+activity#com.example.smartair.ModoSeguroActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:16:9-56
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:16:19-53
+activity#com.example.smartair.ErrorConexionVentilacionActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:17:9-70
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:17:19-67
+activity#com.example.smartair.ErrorConexionCalorActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:18:9-64
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:18:19-61
+activity#com.example.smartair.ErrorConexionAutomaticoActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:19:19-66
+activity#com.example.smartair.ErrorConexionFrioActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:20:9-63
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:20:19-60
+service#com.example.smartair.SensoresService
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:22:9-25:39
+	android:enabled
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:24:13-35
+	android:exported
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:23:13-44
+activity#com.example.smartair.BluetoothActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:27:9-55
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:27:19-52
+service#com.example.smartair.ConexionBluetoothService
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:29:9-32:39
+	android:enabled
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:30:13-53
+activity#com.example.smartair.ModoCalorActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:34:9-55
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:34:19-52
+activity#com.example.smartair.ModoAutomaticoActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:35:9-60
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:35:19-57
+activity#com.example.smartair.ModoVentilacionActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:36:9-61
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:36:19-58
+activity#com.example.smartair.ModoFrioActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:37:9-54
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:37:19-51
+activity#com.example.smartair.MainActivity
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:38:9-44:20
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:38:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\747335c9e30a845d8e94fc5c556b58b5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\747335c9e30a845d8e94fc5c556b58b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\1db170b41f816edbc175864786ce101c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\1db170b41f816edbc175864786ce101c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\afef7bd92b236548842c87c686d28bc3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\afef7bd92b236548842c87c686d28bc3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\72ac117c0299787715913cd6b51a5f12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\72ac117c0299787715913cd6b51a5f12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0f9f0941178b8420fb9dab645249b212\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0f9f0941178b8420fb9dab645249b212\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\245bd982bececf8b578b0bb11adfde1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\245bd982bececf8b578b0bb11adfde1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\694f18a5c447cb86503ec02143fd3559\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\694f18a5c447cb86503ec02143fd3559\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\a7ec248c1af94033144afdfe237b1308\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\a7ec248c1af94033144afdfe237b1308\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0b19408e9d90875164dbdad1a7d0d7c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0b19408e9d90875164dbdad1a7d0d7c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0f95506ad98613d9af738797cd2ca7e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0f95506ad98613d9af738797cd2ca7e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\f65c40927e4fcaa4b0e42b5a575ede74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\f65c40927e4fcaa4b0e42b5a575ede74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0d23cca1d0863dde7443e371d197f8cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0d23cca1d0863dde7443e371d197f8cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\7bf9dbe0b7137932dea72d4b3ab32eb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\7bf9dbe0b7137932dea72d4b3ab32eb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\6be7d0f2b8af843c1beb1349c9445389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\6be7d0f2b8af843c1beb1349c9445389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\dcd7fe3e6c8808d293895fac374f97e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\dcd7fe3e6c8808d293895fac374f97e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\937c18c823d1ea11502077b75eb6b9a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\937c18c823d1ea11502077b75eb6b9a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\53a95ae3687797e59810ebd981d15be4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\53a95ae3687797e59810ebd981d15be4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\9d20206ad0887083bee9db7bc1ba19eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\9d20206ad0887083bee9db7bc1ba19eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\63f6af14effc58e5eaf707859375e777\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\63f6af14effc58e5eaf707859375e777\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ab9966691588f6e4fcba96c1fdb2595f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ab9966691588f6e4fcba96c1fdb2595f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ed0145a073a37162c41e680372aa295f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ed0145a073a37162c41e680372aa295f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\82fc0531903eba467990cb7003f867a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\82fc0531903eba467990cb7003f867a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\4270dbf38711238b71849f6791af1a4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\4270dbf38711238b71849f6791af1a4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\e720b0fc39f76a1acfb92012e9010b24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\e720b0fc39f76a1acfb92012e9010b24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\c797cdde8f88e8a72d22a71e048b3780\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\c797cdde8f88e8a72d22a71e048b3780\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\4e8703669927b39e8809b13c45b027f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\4e8703669927b39e8809b13c45b027f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\6a3b194204e20119a67b8be19f83d2d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\6a3b194204e20119a67b8be19f83d2d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0e986dabe17c9c7716569995fd8fba09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\0e986dabe17c9c7716569995fd8fba09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\4e60719cc6a4b0860e828721d6f54c93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\4e60719cc6a4b0860e828721d6f54c93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\9d81cafe3c0ca8c629c3d2c27a6dac98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\9d81cafe3c0ca8c629c3d2c27a6dac98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ab76e88f196ea791e8157b0dd1566bfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Aylen\.gradle\caches\transforms-2\files-2.1\ab76e88f196ea791e8157b0dd1566bfb\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aylen\Desktop\Proyectos\Git\SmartAirAndroid\SmartAir\app\src\main\AndroidManifest.xml
