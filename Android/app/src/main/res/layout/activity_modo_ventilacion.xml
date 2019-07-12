@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D5BEFF"
+    tools:context=".ModoVentilacionActivity">
+
+    <ImageView
+        android:id="@+id/backModoVentilacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/fondogeneral" />
+
+    <TextView
+        android:id="@+id/headerModoVentilacion"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#6A3AB7"
+        android:text="  SmartAir"
+        android:textAlignment="textStart"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/logoSmartAirVentilacion"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="6dp"
+        app:srcCompat="@drawable/smartairiconventilacion" />
+
+    <ImageView
+        android:id="@+id/manchaVentilacion"
+        android:layout_width="450dp"
+        android:layout_height="579dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="-10dp"
+        app:srcCompat="@drawable/manchavioletados" />
+
+    <TextView
+        android:id="@+id/estadoVentilacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="60dp"
+        android:text="Estado:"
+        android:textColor="#6A3AB7"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/estadoVentilacionValor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="60dp"
+        android:text="Apagado"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/modoVentilacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="90dp"
+        android:text="Modo:"
+        android:textColor="#6A3AB7"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/modoVentilacionValor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="90dp"
+        android:text="Ventilación"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/tempActualVentilacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="230dp"
+        android:text="18 °C"
+        android:textColor="#FFFFFF"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textFanVentilacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="480dp"
+        android:text="Velocidad del ventilador"
+        android:textColor="#6A3AB7"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/fanVentilacion"
+        android:layout_width="37dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="295dp"
+        android:layout_marginTop="469dp"
+        app:srcCompat="@drawable/fanventilacion" />
+
+    <ImageView
+        android:id="@+id/bajarFanVentilacionButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="73dp"
+        android:layout_marginTop="521dp"
+        app:srcCompat="@drawable/flechaizquierdavioleta" />
+
+    <ImageView
+        android:id="@+id/subirFanVentilacionButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="248dp"
+        android:layout_marginTop="521dp"
+        app:srcCompat="@drawable/flechaderechavioleta" />
+
+    <ImageView
+        android:id="@+id/apagarButtonVentilacion"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="313dp"
+        android:layout_marginTop="6dp"
+        app:srcCompat="@drawable/botonapagarventilacion" />
+
+    <TextView
+        android:id="@+id/velocidadFanVentilacionValor"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="525dp"
+        android:background="#9C27B0"
+        android:text="1"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+    <View
+        android:id="@+id/dividerVentilacion"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="45dp"
+        android:background="#EF9BFD" />
+
+    <ImageView
+        android:id="@+id/backArrowVentilacion"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        app:srcCompat="@drawable/arrowventilacion"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="563dp"/>
+
+</RelativeLayout>

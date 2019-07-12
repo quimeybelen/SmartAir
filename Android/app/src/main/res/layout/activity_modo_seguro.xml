@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFEB3B"
+    tools:context=".ModoSeguroActivity">
+
+    <ImageView
+        android:id="@+id/fondoError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/fondoerror" />
+
+    <ImageView
+        android:id="@+id/errorSeguroDialog"
+        android:layout_width="330dp"
+        android:layout_height="330dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="150dp"
+        app:srcCompat="@drawable/dialogrosa" />
+
+    <ImageView
+        android:id="@+id/perroSeguro"
+        android:layout_width="110dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="190dp"
+        android:layout_marginTop="273dp"
+        app:srcCompat="@drawable/perroseguro" />
+
+    <TextView
+        android:id="@+id/mensajeErrorAutomatico"
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="223dp"
+        android:text="El modo seguro ha sido activado.\n¡Su SmartAir está en peligro!\nProbablemente este siendo transportado de manera brusca."
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/exclamationAutomatico"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="240dp"
+        app:srcCompat="@drawable/errorcalor" />
+
+</RelativeLayout>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A8DCF8"
+    tools:context=".ModoFrioActivity">
+
+    <ImageView
+        android:id="@+id/backModoFrio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/fondogeneral" />
+
+    <TextView
+        android:id="@+id/headerModoFrio"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#0A64B3"
+        android:text="  SmartAir"
+        android:textAlignment="textStart"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/logoSmartAirFrio"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="6dp"
+        app:srcCompat="@drawable/smartairicon" />
+
+    <ImageView
+        android:id="@+id/manchaFrio"
+        android:layout_width="344dp"
+        android:layout_height="579dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="-40dp"
+        app:srcCompat="@drawable/manchaceleste" />
+
+    <TextView
+        android:id="@+id/estadoFrio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="60dp"
+        android:text="Estado:"
+        android:textColor="#0A64B3"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/estadoFrioValor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="60dp"
+        android:text="Apagado"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/modoFrio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="90dp"
+        android:text="Modo:"
+        android:textColor="#0A64B3"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/modoFrioValor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="90dp"
+        android:text="Frio"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/tempActualFrio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="210dp"
+        android:text="24 °C"
+        android:textColor="#FFFFFF"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textTempFrio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="380dp"
+        android:text="Temperatura"
+        android:textColor="#0A64B3"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/thermoFrio"
+        android:layout_width="40dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="225dp"
+        android:layout_marginTop="365dp"
+        app:srcCompat="@drawable/thermofrio" />
+
+    <ImageView
+        android:id="@+id/bajarTempFrioButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="73dp"
+        android:layout_marginTop="418dp"
+        app:srcCompat="@drawable/flechaizquierdaazul" />
+
+    <ImageView
+        android:id="@+id/subirTempFrioButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="248dp"
+        android:layout_marginTop="418dp"
+        app:srcCompat="@drawable/flechaderechaazul" />
+
+    <TextView
+        android:id="@+id/textFanFrio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="66dp"
+        android:layout_marginTop="480dp"
+        android:text="Velocidad del ventilador"
+        android:textColor="#0A64B3"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/fanFrio"
+        android:layout_width="37dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="271dp"
+        android:layout_marginTop="465dp"
+        app:srcCompat="@drawable/fanfrio" />
+
+    <ImageView
+        android:id="@+id/bajarFanFrioButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="73dp"
+        android:layout_marginTop="518dp"
+        app:srcCompat="@drawable/flechaizquierdaazul" />
+
+    <ImageView
+        android:id="@+id/subirFanFrioButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="248dp"
+        android:layout_marginTop="518dp"
+        app:srcCompat="@drawable/flechaderechaazul" />
+
+    <ImageView
+        android:id="@+id/apagarButtonFrio"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="313dp"
+        android:layout_marginTop="6dp"
+        app:srcCompat="@drawable/botonapagarfrio" />
+
+    <TextView
+        android:id="@+id/velocidadFanFrioValor"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="520dp"
+        android:background="#218BBD"
+        android:text="1"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tempFrioValor"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="420dp"
+        android:background="#218BBD"
+        android:text="24 °C"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/dividerFrio"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="45dp"
+        android:background="#FFFFFF" />
+
+    <ImageView
+        android:id="@+id/backArrowFrio"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        app:srcCompat="@drawable/arrowfrio"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="563dp"/>
+
+
+</RelativeLayout>

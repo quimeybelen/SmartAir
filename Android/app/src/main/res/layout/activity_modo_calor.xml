@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFC073"
+    tools:context=".ModoCalorActivity">
+
+    <ImageView
+        android:id="@+id/backModoCalor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/fondogeneral" />
+
+    <TextView
+        android:id="@+id/headerModoCalor"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#B30A0A"
+        android:text="  SmartAir"
+        android:textAlignment="textStart"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/logoSmartAirCalor"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="6dp"
+        app:srcCompat="@drawable/smartairiconcalor" />
+
+    <ImageView
+        android:id="@+id/manchaCalor"
+        android:layout_width="344dp"
+        android:layout_height="579dp"
+        android:layout_marginTop="-60dp"
+        android:layout_marginStart="15dp"
+        app:srcCompat="@drawable/mancharoja" />
+
+    <TextView
+        android:id="@+id/estadoCalor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="60dp"
+        android:text="Estado:"
+        android:textColor="#BB0909"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/estadoCalorValor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="60dp"
+        android:text="Apagado"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/modoCalor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="90dp"
+        android:text="Modo:"
+        android:textColor="#BB0909"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/modoCalorValor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="90dp"
+        android:text="Calor"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+
+    <TextView
+        android:id="@+id/tempActualCalor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="18 °C"
+        android:textColor="#FFFFFF"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="190dp"/>
+
+    <TextView
+        android:id="@+id/textTempCalor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="380dp"
+        android:text="Temperatura"
+        android:textColor="#BB0909"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/thermoCalor"
+        android:layout_width="40dp"
+        android:layout_height="55dp"
+        app:srcCompat="@drawable/thermocalor"
+        android:layout_marginStart="225dp"
+        android:layout_marginTop="365dp"/>
+
+    <ImageView
+        android:id="@+id/bajarTempCalorButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:srcCompat="@drawable/flechaizquierdaroja"
+        android:layout_marginStart="73dp"
+        android:layout_marginTop="418dp"/>
+
+    <ImageView
+        android:id="@+id/subirTempCalorButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:srcCompat="@drawable/flechaderecharoja"
+        android:layout_marginStart="248dp"
+        android:layout_marginTop="418dp"/>
+
+    <TextView
+        android:id="@+id/textFanCalor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="66dp"
+        android:layout_marginTop="480dp"
+        android:text="Velocidad del ventilador"
+        android:textColor="#BB0909"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/fanCalor"
+        android:layout_width="37dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="271dp"
+        android:layout_marginTop="465dp"
+        app:srcCompat="@drawable/fancalor" />
+
+    <ImageView
+        android:id="@+id/bajarFanCalorButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:srcCompat="@drawable/flechaizquierdaroja"
+        android:layout_marginStart="73dp"
+        android:layout_marginTop="518dp"/>
+
+    <ImageView
+        android:id="@+id/subirFanCalorButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:srcCompat="@drawable/flechaderecharoja"
+        android:layout_marginStart="248dp"
+        android:layout_marginTop="518dp"/>
+
+    <ImageView
+        android:id="@+id/apagarButtonCalor"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        app:srcCompat="@drawable/botonapagarcalor"
+        android:layout_marginStart="313dp"
+        android:layout_marginTop="6dp"/>
+
+    <TextView
+        android:id="@+id/velocidadFanCalorValor"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="520dp"
+        android:background="#FF6600"
+        android:text="1"
+        android:textAlignment="center"
+        android:textColor="#FCE83B"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tempCalorValor"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="420dp"
+        android:background="#FF6600"
+        android:text="24 °C"
+        android:textAlignment="center"
+        android:textColor="#FCE83B"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/dividerCalor"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="45dp"
+        android:background="#FFEB3B" />
+
+    <ImageView
+        android:id="@+id/backArrowCalor"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        app:srcCompat="@drawable/arrowcalor"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="563dp"/>
+
+
+
+</RelativeLayout>

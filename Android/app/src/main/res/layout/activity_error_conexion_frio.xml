@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#87D4F8"
+    tools:context=".ErrorConexionFrioActivity">
+
+    <ImageView
+        android:id="@+id/fondoError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/fondoerror" />
+
+    <ImageView
+        android:id="@+id/errorFrioDialog"
+        android:layout_width="330dp"
+        android:layout_height="330dp"
+        app:srcCompat="@drawable/dialogfrio"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="150dp"/>
+
+    <ImageView
+        android:id="@+id/cruzFrio"
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_delete"
+        android:layout_marginStart="70dp"
+        android:layout_marginTop="210dp"/>
+
+    <ImageView
+        android:id="@+id/perroFrio"
+        android:layout_width="130dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/perrofrio"
+        android:layout_marginStart="165dp"
+        android:layout_marginTop="250dp"/>
+
+    <TextView
+        android:id="@+id/mensajeErrorFrio"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="Por favor, conecte SmartAir a una fuente de alimentación."
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="263dp"/>
+
+    <ImageView
+        android:id="@+id/exclamationfrio"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:srcCompat="@drawable/errorfrio"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="260dp"/>
+</RelativeLayout>

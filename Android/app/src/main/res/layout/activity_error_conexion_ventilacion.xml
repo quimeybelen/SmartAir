@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DAB9FC"
+    tools:context=".ErrorConexionVentilacionActivity">
+
+    <ImageView
+        android:id="@+id/fondoError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/fondoerror" />
+
+    <ImageView
+        android:id="@+id/errorVentilacionDialog"
+        android:layout_width="330dp"
+        android:layout_height="330dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="150dp"
+        app:srcCompat="@drawable/dialogvioleta" />
+
+    <ImageView
+        android:id="@+id/cruzVentilacion"
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="70dp"
+        android:layout_marginTop="210dp"
+        app:srcCompat="@android:drawable/ic_delete" />
+
+    <ImageView
+        android:id="@+id/perroVentilacion"
+        android:layout_width="110dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="175dp"
+        android:layout_marginTop="263dp"
+        app:srcCompat="@drawable/perroventilacion" />
+
+    <TextView
+        android:id="@+id/mensajeErrorVentilacion"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="263dp"
+        android:text="Por favor, conecte SmartAir a una fuente de alimentación."
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/exclamationVentilacion"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="260dp"
+        app:srcCompat="@drawable/errorventilacion" />
+
+</RelativeLayout>

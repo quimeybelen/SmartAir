@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAEE89"
+    tools:context=".ModoAutomaticoActivity">
+
+    <ImageView
+        android:id="@+id/backModoAutomatico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/fondogeneral" />
+
+    <TextView
+        android:id="@+id/headerModoAutomatico"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#FFA725"
+        android:text="  SmartAir"
+        android:textAlignment="textStart"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/logoSmartAirAutomatico"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="6dp"
+        app:srcCompat="@drawable/smartairiconautomatico" />
+
+    <ImageView
+        android:id="@+id/manchaAutomatico"
+        android:layout_width="450dp"
+        android:layout_height="579dp"
+        android:layout_marginStart="-40dp"
+        android:layout_marginTop="-10dp"
+        app:srcCompat="@drawable/manchanaranja" />
+
+    <TextView
+        android:id="@+id/estadoAutomatico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="60dp"
+        android:text="Estado:"
+        android:textColor="#F44336"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/estadoAutomaticoValor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="60dp"
+        android:text="Apagado"
+        android:textColor="#BE0E0E"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/modoAutomatico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="90dp"
+        android:text="Modo:"
+        android:textColor="#F44336"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/modoAutomaticoValor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="90dp"
+        android:text="Automatico"
+        android:textColor="#BE0E0E"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/tempActualAutomatico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="230dp"
+        android:text="18 °C"
+        android:textColor="#FFFFFF"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textTempAutomatico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="106dp"
+        android:layout_marginTop="445dp"
+        android:text="Temperatura"
+        android:textColor="#F44336"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/thermoAutomatico"
+        android:layout_width="37dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="245dp"
+        android:layout_marginTop="434dp"
+        app:srcCompat="@drawable/thermoautomatico" />
+
+    <ImageView
+        android:id="@+id/apagarButtonAutomatico"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="313dp"
+        android:layout_marginTop="6dp"
+        app:srcCompat="@drawable/botonapagarautomatico" />
+
+    <TextView
+        android:id="@+id/tempAutomaticoValor"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="490dp"
+        android:background="#FF6F00"
+        android:text="24 °C"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+    <View
+        android:id="@+id/dividerAutomatico"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="45dp"
+        android:background="#F44336" />
+
+    <ImageView
+        android:id="@+id/backArrowAutomatico"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        app:srcCompat="@drawable/arrowautomatico"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="563dp"/>
+
+
+</RelativeLayout>
